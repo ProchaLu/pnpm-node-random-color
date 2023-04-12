@@ -1,0 +1,20 @@
+{
+  "name": "pnpm-node-random-color",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-upleveled": "^4.0.12"
+  },
+  "dependencies": {
+    "my-colors": "^1.0.0",
+    "randomcolor": "^0.6.2"
+  }
+}
