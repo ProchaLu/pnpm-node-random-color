@@ -12,7 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "@upleveled/eslint-config-upleveled": "^4.0.10",
-    "eslint-config-upleveled": "^4.0.12"
+    "eslint-config-upleveled": "^5.0.4",
+    "typescript": "^5.2.2"
   },
   "dependencies": {
     "my-colors": "^1.0.0",
